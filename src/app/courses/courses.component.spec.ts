@@ -21,7 +21,7 @@ describe('CoursesComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should create the course component', () => {
     expect(component).toBeTruthy();
   });
 });
